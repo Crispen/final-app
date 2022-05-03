@@ -1,7 +1,7 @@
 <!--
 Name of your final project
 -->
-# final-app-name
+# Care-Less
 ![Swift](https://img.shields.io/badge/swift-5.5-brightgreen.svg) ![Xcode 13.2+](https://img.shields.io/badge/xcode-13.2%2B-blue.svg) ![iOS 15.0+](https://img.shields.io/badge/iOS-15.0%2B-blue.svg) ![watchOS 8.0+](https://img.shields.io/badge/watchOS-8.0%2B-blue.svg) ![CareKit 2.1+](https://img.shields.io/badge/CareKit-2.1%2B-red.svg) ![ci](https://github.com/netreconlab/CareKitSample-ParseCareKit/workflows/ci/badge.svg?branch=main)
 
 ## Description
@@ -35,7 +35,7 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [member1](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`, `MAJOR`
+- [member1](https://github.com/Crispen) - `University of Kentucky`, `Computer Science`
 
 ParseCareKit synchronizes the following entities to Parse tables/classes using [Parse-Swift](https://github.com/parse-community/Parse-Swift):
 
@@ -58,12 +58,12 @@ What features were added by you, this should be descriptions of features added f
 <!--
 This is from the checkist from the final [Code](https://uk.instructure.com/courses/2030626/assignments/11151475). You should mark completed items with an x and leave non-completed items empty
 -->
-- [ ] Signup/Login screen tailored to app
-- [ ] Signup/Login with email address
-- [ ] Custom app logo
-- [ ] Custom styling
+- [x] Signup/Login screen tailored to app
+- [x] Signup/Login with email address
+- [x] Custom app logo
+- [x] Custom styling
 - [ ] Add at least **5 new OCKTask/OCKHealthKitTasks** to your app
-  - [ ] Have a minimum of 7 OCKTask/OCKHealthKitTasks in your app
+  - [x] Have a minimum of 7 OCKTask/OCKHealthKitTasks in your app
   - [ ] 3/7 of OCKTasks should have different OCKSchedules than what's in the original app
 - [ ] Use at least 5/7 card below in your app
   - [ ] InstructionsTaskView - typically used with a OCKTask
@@ -74,7 +74,7 @@ This is from the checkist from the final [Code](https://uk.instructure.com/cours
   - [ ] NumericProgressTaskView (SwiftUI) - typically used with a OCKHealthKitTask
   - [ ] LabeledValueTaskView (SwiftUI) - typically used with a OCKHealthKitTask
 - [ ] Add the LinkView (SwiftUI) card to your app
-- [ ] Replace the current TipView with a class with CustomFeaturedContentView that subclasses OCKFeaturedContentView. This card should have an initializer which takes any link
+- [x] Replace the current TipView with a class with CustomFeaturedContentView that subclasses OCKFeaturedContentView. This card should have an initializer which takes any link
 - [ ] Tailor the ResearchKit Onboarding to reflect your application
 - [ ] Add tailored check-in ResearchKit survey to your app
 - [ ] Add a new tab called "Insights" to MainTabView
